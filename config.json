@@ -1,0 +1,62 @@
+{
+  "takt_minuten": 60,
+  "behalten_tage": 14,
+
+  "filter": {
+    "max_miete": 1200,
+    "min_zimmer": 2,
+    "min_flaeche": 55,
+    "ausschluss_woerter": ["tausch", "wohnungstausch", "zwischenmiete", "auf zeit"],
+    "pflicht_woerter": []
+  },
+
+  "suchen": [
+    {
+      "name": "Kleinanzeigen · Essen",
+      "stadt": "Essen",
+      "plattform": "kleinanzeigen",
+      "url": "HIER_DEINE_SUCH_URL_EINFUEGEN",
+      "aktiv": true
+    },
+    {
+      "name": "ImmoScout24 · Essen",
+      "stadt": "Essen",
+      "plattform": "immoscout24",
+      "url": "HIER_DEINE_SUCH_URL_EINFUEGEN",
+      "aktiv": true
+    },
+    {
+      "name": "Immowelt · Essen",
+      "stadt": "Essen",
+      "plattform": "immowelt",
+      "url": "HIER_DEINE_SUCH_URL_EINFUEGEN",
+      "aktiv": true
+    },
+
+    {
+      "name": "Kleinanzeigen · Bochum",
+      "stadt": "Bochum",
+      "plattform": "kleinanzeigen",
+      "url": "HIER_DEINE_SUCH_URL_EINFUEGEN",
+      "aktiv": true,
+      "filter": { "max_miete": 950 }
+    },
+    {
+      "name": "WG-Gesucht · Bochum",
+      "stadt": "Bochum",
+      "plattform": "wg-gesucht",
+      "url": "HIER_DEINE_SUCH_URL_EINFUEGEN",
+      "aktiv": true,
+      "filter": { "max_miete": 950, "min_flaeche": 45 }
+    },
+
+    {
+      "name": "Kleinanzeigen · Düsseldorf",
+      "stadt": "Düsseldorf",
+      "plattform": "kleinanzeigen",
+      "url": "HIER_DEINE_SUCH_URL_EINFUEGEN",
+      "aktiv": false,
+      "filter": { "max_miete": 1400 }
+    }
+  ]
+}
