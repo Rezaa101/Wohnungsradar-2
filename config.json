@@ -38,7 +38,7 @@
       "stadt": "Bochum",
       "plattform": "wg-gesucht",
       "url": "https://www.wg-gesucht.de/wohnungen-in-Bochum.12.2.1.0.html?categories%5B%5D=2&rent_types%5B%5D=2&min_size=28&rent_range=0%2C780&min_rent=0&max_rent=780&offer_filter=1&city_id=12&sort_order=0&noDeact=1&sMin=28&rMin=0&rMax=780&radDis=10000&fur=1",
-      "aktiv": true,
+      "aktiv": false,
       "filter": { "max_miete": 800 }
     },
     {
@@ -46,7 +46,7 @@
       "stadt": "Witten",
       "plattform": "wg-gesucht",
       "url": "https://www.wg-gesucht.de/wohnungen-in-Witten.3094.2.1.0.html?country_code=de&city_name=Witten&categories%5B%5D=2&rent_types%5B%5D=2&min_size=28&rent_range=0%2C780&min_rent=0&max_rent=780&offer_filter=1&city_id=3094&sort_order=0&noDeact=1&sMin=28&rMax=780&fur=1",
-      "aktiv": true,
+      "aktiv": false,
       "filter": { "max_miete": 800, "min_flaeche": 45 }
     },
 
@@ -64,7 +64,7 @@
       "stadt": "Witten",
       "plattform": "Immowelt",
       "url": "https://www.immowelt.de/classified-search?distributionTypes=Rent&estateTypes=Apartment&featuresIncluded=Kitchen_Fully_Equipped&locations=AD08DE2438&priceMax=600&spaceMin=30&m=homepage_relaunch_my_last_search_classified_search_result",
-      "aktiv": false
+      "aktiv": true
     }
   ]
 }
