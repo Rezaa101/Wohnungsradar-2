@@ -1,0 +1,40 @@
+name: Wohnungssuche
+
+on:
+  schedule:
+    # Stündlich zwischen 08:00 und 22:00 deutscher Sommerzeit.
+    # GitHub rechnet in UTC: 6-20 UTC = 8-22 Uhr MESZ. Im Winter (MEZ) auf "0 7-21 * * *" ändern.
+    - cron: "0 6-20 * * *"
+  workflow_dispatch:          # manuell startbar über den Actions-Tab
+
+permissions:
+  contents: write
+
+concurrency:
+  group: wohnungssuche
+  cancel-in-progress: false
+
+jobs:
+  suchen:
+    runs-on: ubuntu-latest
+    timeout-minutes: 12
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - run: pip install -r requirements.txt
+
+      - name: Plattformen abfragen
+        run: python main.py
+
+      - name: Ergebnisse zurückschreiben
+        run: |
+          git config user.name  "wohnungsradar"
+          git config user.email "actions@github.com"
+          git add data/anzeigen.json docs/index.html
+          git diff --staged --quiet || git commit -m "Stand $(date -u '+%d.%m. %H:%M') UTC"
+          git push
