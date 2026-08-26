@@ -122,11 +122,35 @@ def parse_kleinanzeigen(html: str, basis: str) -> list[Listing]:
     soup = BeautifulSoup(html, "lxml")
     treffer: list[Listing] = []
     for artikel in soup.select("article.aditem, li.ad-listitem article"):
-        link = artikel.select_one("a[href*='/s-anzeige/']")
+        # Eine Anzeige enthaelt mehrere Links auf dasselbe Inserat: Bild, Titel und
+        # die Bildanzahl-Markierung. Gezielt den Titel-Link nehmen, sonst landet
+        # als Titel z. B. nur die Zahl "2" aus der Bildanzahl im Dashboard.
+        link = artikel.select_one(
+            "h2 a[href*='/s-anzeige/'], h3 a[href*='/s-anzeige/'], "
+            "a.ellipsis[href*='/s-anzeige/']"
+        )
+        kandidaten = artikel.select("a[href*='/s-anzeige/']")
+        if link is None and kandidaten:
+            # Notnagel: der Link mit dem laengsten Text ist praktisch immer der Titel
+            link = max(kandidaten, key=lambda a: len(_text(a)))
         if not link:
             continue
         url = urljoin(basis, link.get("href", ""))
-        titel = _text(link) or _text(artikel.select_one("h2"))
+
+        titel = _text(link)
+        if len(titel) < 8 or titel.replace(".", "").isdigit():
+            # Immer noch die Bildanzahl o. ae. erwischt - der Reihe nach nachbessern
+            for ersatz in (
+                _text(artikel.select_one("h2")),
+                _text(artikel.select_one("h3")),
+                max((_text(a) for a in kandidaten), key=len, default=""),
+                (artikel.select_one("img") or {}).get("alt", "") if artikel.select_one("img") else "",
+            ):
+                if ersatz and len(ersatz) >= 8 and not ersatz.replace(".", "").isdigit():
+                    titel = ersatz
+                    break
+        titel = titel or "Ohne Titel"
+
         preis = _zahl(_text(artikel.select_one("[class*='--price']")))
         ort = _text(artikel.select_one("[class*='--top--left']"))
 
