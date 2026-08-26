@@ -103,7 +103,13 @@ def main() -> None:
                 bestand[daten["id"]] = daten
                 neu_gesamt += 1
             else:
-                bestand[daten["id"]]["preis"] = daten["preis"] or bestand[daten["id"]].get("preis")
+                # Bekannte Anzeige: Angaben auffrischen, damit Korrekturen am Parser
+                # auch alte Eintraege erreichen. Der Fundzeitpunkt bleibt unangetastet.
+                alt = bestand[daten["id"]]
+                for feld in ("titel", "preis", "zimmer", "flaeche", "ort", "stadt"):
+                    neu = daten.get(feld)
+                    if neu and neu != "Ohne Titel":
+                        alt[feld] = neu
 
         berichte.append({"name": name, "fehler": fehler, "treffer": passend})
         print(f"{'✗' if fehler else '✓'} {name}: "
