@@ -1,5 +1,33 @@
 [
  {
+  "id": "kleinanzeigen:6d745d7eb5ce7b",
+  "plattform": "kleinanzeigen",
+  "titel": "9",
+  "url": "https://www.kleinanzeigen.de/s-anzeige/anfragenstop-nachmieter-fuer-neubauwohnung-gesucht/3487860205-203-1944",
+  "preis": 690.0,
+  "zimmer": null,
+  "flaeche": null,
+  "ort": "44795 Bochum-​Südwest",
+  "bild": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f9/f96ebfd3-6dd1-4478-8538-33876bd71d02?rule=$_2.AUTO",
+  "gefunden_am": "2026-08-26T10:06:16+00:00",
+  "quelle": "Kleinanzeigen · Bochum",
+  "stadt": "Bochum"
+ },
+ {
+  "id": "kleinanzeigen:91a033a514b960",
+  "plattform": "kleinanzeigen",
+  "titel": "9",
+  "url": "https://www.kleinanzeigen.de/s-anzeige/nachmieter-gesucht/3482532621-203-16869",
+  "preis": 590.0,
+  "zimmer": null,
+  "flaeche": null,
+  "ort": "44803 Bochum-​Ost",
+  "bild": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/48/48ee5d2b-f6ce-44f2-bc19-5d1138c542cc?rule=$_2.AUTO",
+  "gefunden_am": "2026-08-26T10:06:16+00:00",
+  "quelle": "Kleinanzeigen · Bochum",
+  "stadt": "Bochum"
+ },
+ {
   "id": "kleinanzeigen:2a2d2ba1c2b5b4",
   "plattform": "kleinanzeigen",
   "titel": "12",
