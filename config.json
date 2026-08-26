@@ -65,6 +65,14 @@
       "plattform": "immowelt",
       "url": "https://www.immowelt.de/classified-search?distributionTypes=Rent&estateTypes=Apartment&featuresIncluded=Kitchen_Fully_Equipped&locations=AD08DE2438&priceMax=600&spaceMin=30&m=homepage_relaunch_my_last_search_classified_search_result",
       "aktiv": true
+    },
+      
+    {
+      "name": "Kleinanzeigen · Dortmund",
+      "stadt": "Dortmund",
+      "plattform": "kleinaanzeigen",
+      "url": "https://www.kleinanzeigen.de/s-wohnung-mieten/dortmund/preis::690/c203l1085+wohnung_mieten.qm_d:25%2C+options:wohnung_mieten.built_in_kitchen_b",
+      "aktiv": true
     }
   ]
 }
