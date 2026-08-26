@@ -2,9 +2,9 @@ name: Wohnungssuche
 
 on:
   schedule:
-    # Stündlich zwischen 08:00 und 22:00 deutscher Sommerzeit.
-    # GitHub rechnet in UTC: 6-20 UTC = 8-22 Uhr MESZ. Im Winter (MEZ) auf "0 7-21 * * *" ändern.
-    - cron: "0 6-20 * * *"
+    # Stündlich zwischen 10:00 und 22:00 deutscher Sommerzeit.
+    # GitHub rechnet in UTC: 8-20 UTC = 8-22 Uhr MESZ. Im Winter (MEZ) auf "0 7-21 * * *" ändern.
+    - cron: "0 8-20 * * *"
   workflow_dispatch:          # manuell startbar über den Actions-Tab
 
 permissions:
