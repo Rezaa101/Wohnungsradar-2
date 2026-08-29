@@ -1,5 +1,19 @@
 [
  {
+  "id": "kleinanzeigen:b8ac705b9b9603",
+  "plattform": "kleinanzeigen",
+  "titel": "Wunderschöne 2 Zimmer Wohnung",
+  "url": "https://www.kleinanzeigen.de/s-anzeige/wunderschoene-2-zimmer-wohnung/3498131756-203-1096",
+  "preis": 550.0,
+  "zimmer": null,
+  "flaeche": null,
+  "ort": "44388 Lütgendortmund",
+  "bild": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b8/b8d33721-b9d9-47cd-b19a-2fbe1ea41e23?rule=$_1.AUTO",
+  "gefunden_am": "2026-08-29T18:08:15+00:00",
+  "quelle": "Kleinanzeigen · Dortmund",
+  "stadt": "Dortmund"
+ },
+ {
   "id": "kleinanzeigen:bea655f2c73b0a",
   "plattform": "kleinanzeigen",
   "titel": "61m² Wohnung, 2 Zimmer, Küche, Bad im Dortmunder Kreuzviertel",
