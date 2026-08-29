@@ -1,5 +1,33 @@
 [
  {
+  "id": "kleinanzeigen:bea655f2c73b0a",
+  "plattform": "kleinanzeigen",
+  "titel": "61m² Wohnung, 2 Zimmer, Küche, Bad im Dortmunder Kreuzviertel",
+  "url": "https://www.kleinanzeigen.de/s-anzeige/61m-wohnung-2-zimmer-kueche-bad-im-dortmunder-kreuzviertel/3497996689-203-1110",
+  "preis": 575.0,
+  "zimmer": null,
+  "flaeche": null,
+  "ort": "44137 Innenstadt-​West",
+  "bild": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d5/d5581f9f-48f8-4936-95fc-b6f0625586e4?rule=$_1.AUTO",
+  "gefunden_am": "2026-08-29T15:08:15+00:00",
+  "quelle": "Kleinanzeigen · Dortmund",
+  "stadt": "Dortmund"
+ },
+ {
+  "id": "kleinanzeigen:37166fc0c7a940",
+  "plattform": "kleinanzeigen",
+  "titel": "Helle voll möblierte 2-Zimmer-Wohnung in Dortmund-ab 1.10.2026",
+  "url": "https://www.kleinanzeigen.de/s-anzeige/helle-voll-moeblierte-2-zimmer-wohnung-in-dortmund-ab-1-10-2026/3497995061-203-1107",
+  "preis": 660.0,
+  "zimmer": null,
+  "flaeche": null,
+  "ort": "44147 Innenstadt-​Nord",
+  "bild": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/85/8575e69c-e46b-47e6-b032-2925a4037cf1?rule=$_2.AUTO",
+  "gefunden_am": "2026-08-29T15:08:15+00:00",
+  "quelle": "Kleinanzeigen · Dortmund",
+  "stadt": "Dortmund"
+ },
+ {
   "id": "kleinanzeigen:e93e1ee2ee4ef2",
   "plattform": "kleinanzeigen",
   "titel": "2-Zimmer-Wohnung in Dortmund",
