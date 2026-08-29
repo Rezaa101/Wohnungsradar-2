@@ -1,5 +1,33 @@
 [
  {
+  "id": "kleinanzeigen:28459cae1da9c7",
+  "plattform": "kleinanzeigen",
+  "titel": "Einzimmerwohnung Dortmund",
+  "url": "https://www.kleinanzeigen.de/s-anzeige/einzimmerwohnung-dortmund/3497703415-203-1110",
+  "preis": 600.0,
+  "zimmer": null,
+  "flaeche": null,
+  "ort": "44137 Innenstadt-​West",
+  "bild": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/2a/2ae3fd89-a120-4ad3-b6b4-ff21f7d252e3?rule=$_1.AUTO",
+  "gefunden_am": "2026-08-29T12:09:45+00:00",
+  "quelle": "Kleinanzeigen · Dortmund",
+  "stadt": "Dortmund"
+ },
+ {
+  "id": "kleinanzeigen:af19fc40abcaa7",
+  "plattform": "kleinanzeigen",
+  "titel": "2-Zimmer-EGW mit geh. Ausstattung und inkl. EBK.",
+  "url": "https://www.kleinanzeigen.de/s-anzeige/2-zimmer-egw-mit-geh-ausstattung-und-inkl-ebk-/3497826716-203-16814",
+  "preis": 550.0,
+  "zimmer": null,
+  "flaeche": null,
+  "ort": "44141 Mitte",
+  "bild": null,
+  "gefunden_am": "2026-08-29T12:09:45+00:00",
+  "quelle": "Kleinanzeigen · Dortmund",
+  "stadt": "Dortmund"
+ },
+ {
   "id": "kleinanzeigen:6eaf5ba0306749",
   "plattform": "kleinanzeigen",
   "titel": "Schönes Apartment mit eigenem Eingang in ruhiger, grüner Lage",
