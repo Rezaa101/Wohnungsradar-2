@@ -1,5 +1,47 @@
 [
  {
+  "id": "kleinanzeigen:e93e1ee2ee4ef2",
+  "plattform": "kleinanzeigen",
+  "titel": "2-Zimmer-Wohnung in Dortmund",
+  "url": "https://www.kleinanzeigen.de/s-anzeige/2-zimmer-wohnung-in-dortmund/3497960695-203-26972",
+  "preis": 510.0,
+  "zimmer": null,
+  "flaeche": null,
+  "ort": "44139 Brünninghausen",
+  "bild": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/cc/cc910654-45c1-4f30-bd36-58e8b1affea6?rule=$_1.AUTO",
+  "gefunden_am": "2026-08-29T14:08:18+00:00",
+  "quelle": "Kleinanzeigen · Dortmund",
+  "stadt": "Dortmund"
+ },
+ {
+  "id": "kleinanzeigen:bd45ea0fad521d",
+  "plattform": "kleinanzeigen",
+  "titel": "Attraktive Wohnung in guter Lage – ab sofort verfügbar",
+  "url": "https://www.kleinanzeigen.de/s-anzeige/attraktive-wohnung-in-guter-lage-ab-sofort-verfuegbar/3497902122-203-1944",
+  "preis": 600.0,
+  "zimmer": null,
+  "flaeche": null,
+  "ort": "44795 Bochum-​Südwest",
+  "bild": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e3/e38d96ff-2e8e-4a74-8836-cf49a63541f1?rule=$_2.AUTO",
+  "gefunden_am": "2026-08-29T14:08:02+00:00",
+  "quelle": "Kleinanzeigen · Bochum",
+  "stadt": "Bochum"
+ },
+ {
+  "id": "kleinanzeigen:16588085ee54dc",
+  "plattform": "kleinanzeigen",
+  "titel": "Attraktive Wohnung in guter Lage – ab sofort verfügbar",
+  "url": "https://www.kleinanzeigen.de/s-anzeige/attraktive-wohnung-in-guter-lage-ab-sofort-verfuegbar/3497900205-203-1944",
+  "preis": 600.0,
+  "zimmer": null,
+  "flaeche": null,
+  "ort": "44795 Bochum-​Südwest",
+  "bild": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e3/e38d96ff-2e8e-4a74-8836-cf49a63541f1?rule=$_2.AUTO",
+  "gefunden_am": "2026-08-29T14:08:02+00:00",
+  "quelle": "Kleinanzeigen · Bochum",
+  "stadt": "Bochum"
+ },
+ {
   "id": "kleinanzeigen:8c7361b7e3188e",
   "plattform": "kleinanzeigen",
   "titel": "2-Zimmer-EGW mit geh. Ausstattung und EBK in DO-Gartenstadt",
