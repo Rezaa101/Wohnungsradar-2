@@ -1,5 +1,19 @@
 [
  {
+  "id": "kleinanzeigen:762de265baafe1",
+  "plattform": "kleinanzeigen",
+  "titel": "MietWohnug",
+  "url": "https://www.kleinanzeigen.de/s-anzeige/mietwohnug/3498268429-203-1418",
+  "preis": 650.0,
+  "zimmer": null,
+  "flaeche": null,
+  "ort": "58300 Wetter (Ruhr)",
+  "bild": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/2e/2e6d2cff-7c55-480a-9958-c47dd8a3a167?rule=$_2.AUTO",
+  "gefunden_am": "2026-08-29T20:08:12+00:00",
+  "quelle": "Kleinanzeigen · Witten",
+  "stadt": "Witten"
+ },
+ {
   "id": "kleinanzeigen:0482069c120abc",
   "plattform": "kleinanzeigen",
   "titel": "2-Zi-Whg., Nähe Hbf. schöner Balkon, nur an Nichtraucher, WG mögl",
