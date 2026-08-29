@@ -1,5 +1,19 @@
 [
  {
+  "id": "kleinanzeigen:b02fd8a616a356",
+  "plattform": "kleinanzeigen",
+  "titel": "50 m² Wohnung in Dortmund West zu vermieten",
+  "url": "https://www.kleinanzeigen.de/s-anzeige/50-m-wohnung-in-dortmund-west-zu-vermieten-/3497599309-203-16813",
+  "preis": 430.0,
+  "zimmer": null,
+  "flaeche": null,
+  "ort": "44147 Innenstadt-​West",
+  "bild": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a8/a8293beb-a57a-4ed2-a6c4-1898f9bbf25d?rule=$_1.AUTO",
+  "gefunden_am": "2026-08-29T09:08:14+00:00",
+  "quelle": "Kleinanzeigen · Dortmund",
+  "stadt": "Dortmund"
+ },
+ {
   "id": "kleinanzeigen:ae1e0ae46bfd3c",
   "plattform": "kleinanzeigen",
   "titel": "Wohnung im Hinterhaus nahe Borsigplatz",
