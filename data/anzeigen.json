@@ -1,5 +1,19 @@
 [
  {
+  "id": "kleinanzeigen:0482069c120abc",
+  "plattform": "kleinanzeigen",
+  "titel": "2-Zi-Whg., Nähe Hbf. schöner Balkon, nur an Nichtraucher, WG mögl",
+  "url": "https://www.kleinanzeigen.de/s-anzeige/2-zi-whg-naehe-hbf-schoener-balkon-nur-an-nichtraucher-wg-moegl/3498230581-203-1107",
+  "preis": 600.0,
+  "zimmer": null,
+  "flaeche": null,
+  "ort": "44147 Innenstadt-​Nord",
+  "bild": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a4/a42f5c18-d743-48f0-9c88-6dc48763c538?rule=$_1.AUTO",
+  "gefunden_am": "2026-08-29T19:08:15+00:00",
+  "quelle": "Kleinanzeigen · Dortmund",
+  "stadt": "Dortmund"
+ },
+ {
   "id": "kleinanzeigen:b8ac705b9b9603",
   "plattform": "kleinanzeigen",
   "titel": "Wunderschöne 2 Zimmer Wohnung",
