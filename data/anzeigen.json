@@ -1,5 +1,47 @@
 [
  {
+  "id": "kleinanzeigen:ae1e0ae46bfd3c",
+  "plattform": "kleinanzeigen",
+  "titel": "Wohnung im Hinterhaus nahe Borsigplatz",
+  "url": "https://www.kleinanzeigen.de/s-anzeige/wohnung-im-hinterhaus-nahe-borsigplatz/3497448500-203-1106",
+  "preis": 375.0,
+  "zimmer": null,
+  "flaeche": null,
+  "ort": "44145 Innenstadt-​Nord",
+  "bild": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/96/96ff6d0b-93e2-4542-a4db-09ec6c7ed7e0?rule=$_1.AUTO",
+  "gefunden_am": "2026-08-29T08:08:15+00:00",
+  "quelle": "Kleinanzeigen · Dortmund",
+  "stadt": "Dortmund"
+ },
+ {
+  "id": "kleinanzeigen:b90f8b9825bb83",
+  "plattform": "kleinanzeigen",
+  "titel": "2-Zimmer-Wohnung mit 57 qm Stadtkrone Ost im Ortsteil Schüren",
+  "url": "https://www.kleinanzeigen.de/s-anzeige/2-zimmer-wohnung-mit-57-qm-stadtkrone-ost-im-ortsteil-schueren/3497413061-203-19922",
+  "preis": 545.0,
+  "zimmer": null,
+  "flaeche": null,
+  "ort": "44269 Benninghofen",
+  "bild": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/09/0906495f-f057-443a-ac48-94733bb8a6e6?rule=$_2.AUTO",
+  "gefunden_am": "2026-08-29T08:08:15+00:00",
+  "quelle": "Kleinanzeigen · Dortmund",
+  "stadt": "Dortmund"
+ },
+ {
+  "id": "kleinanzeigen:dd345c97c68f87",
+  "plattform": "kleinanzeigen",
+  "titel": "Gemütliche Wohnung für Senioren ab 60 Jahren mit passendem WBS !",
+  "url": "https://www.kleinanzeigen.de/s-anzeige/gemuetliche-wohnung-fuer-senioren-ab-60-jahren-mit-passendem-wbs-/3495805149-203-1936",
+  "preis": 210.0,
+  "zimmer": null,
+  "flaeche": null,
+  "ort": "44894 Bochum-​Ost",
+  "bild": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e8/e8dc9e83-9148-48dc-a37e-113473e89c9f?rule=$_1.AUTO",
+  "gefunden_am": "2026-08-29T08:07:54+00:00",
+  "quelle": "Kleinanzeigen · Bochum",
+  "stadt": "Bochum"
+ },
+ {
   "id": "kleinanzeigen:b0807144a30429",
   "plattform": "kleinanzeigen",
   "titel": "Nachmieter gesucht für eine 2-Zimmer-Wohnung in Dortmund-Mitte",
