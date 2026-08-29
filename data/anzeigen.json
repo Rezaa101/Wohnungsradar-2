@@ -1,5 +1,19 @@
 [
  {
+  "id": "kleinanzeigen:6eaf5ba0306749",
+  "plattform": "kleinanzeigen",
+  "titel": "Schönes Apartment mit eigenem Eingang in ruhiger, grüner Lage",
+  "url": "https://www.kleinanzeigen.de/s-anzeige/schoenes-apartment-mit-eigenem-eingang-in-ruhiger-gruener-lage/3497672314-203-28091",
+  "preis": 380.0,
+  "zimmer": null,
+  "flaeche": null,
+  "ort": "44227 Eichlinghofen",
+  "bild": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b2/b26f2432-e8c7-4a38-807f-99540741659d?rule=$_1.AUTO",
+  "gefunden_am": "2026-08-29T10:08:12+00:00",
+  "quelle": "Kleinanzeigen · Dortmund",
+  "stadt": "Dortmund"
+ },
+ {
   "id": "kleinanzeigen:b02fd8a616a356",
   "plattform": "kleinanzeigen",
   "titel": "50 m² Wohnung in Dortmund West zu vermieten",
