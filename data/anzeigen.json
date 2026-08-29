@@ -1,5 +1,33 @@
 [
  {
+  "id": "kleinanzeigen:8c7361b7e3188e",
+  "plattform": "kleinanzeigen",
+  "titel": "2-Zimmer-EGW mit geh. Ausstattung und EBK in DO-Gartenstadt",
+  "url": "https://www.kleinanzeigen.de/s-anzeige/2-zimmer-egw-mit-geh-ausstattung-und-ebk-in-do-gartenstadt/3497826716-203-16814",
+  "preis": 550.0,
+  "zimmer": null,
+  "flaeche": null,
+  "ort": "44141 Mitte",
+  "bild": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/13/13ff05e3-c5a2-407d-84d5-e0f6d00328bf?rule=$_1.AUTO",
+  "gefunden_am": "2026-08-29T13:07:59+00:00",
+  "quelle": "Kleinanzeigen · Dortmund",
+  "stadt": "Dortmund"
+ },
+ {
+  "id": "kleinanzeigen:2e9c8a73960700",
+  "plattform": "kleinanzeigen",
+  "titel": "3-Zimmer-Wohnung / 56qm mit Balkon und Einbauküche",
+  "url": "https://www.kleinanzeigen.de/s-anzeige/3-zimmer-wohnung-56qm-mit-balkon-und-einbaukueche/3497865208-203-1103",
+  "preis": 615.0,
+  "zimmer": null,
+  "flaeche": null,
+  "ort": "44359 Mengede",
+  "bild": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/08/081fe714-f6d3-479e-9292-ac9c36f2b69f?rule=$_1.AUTO",
+  "gefunden_am": "2026-08-29T13:07:59+00:00",
+  "quelle": "Kleinanzeigen · Dortmund",
+  "stadt": "Dortmund"
+ },
+ {
   "id": "kleinanzeigen:28459cae1da9c7",
   "plattform": "kleinanzeigen",
   "titel": "Einzimmerwohnung Dortmund",
@@ -1080,7 +1108,7 @@
  {
   "id": "kleinanzeigen:bc9e2298b00dd3",
   "plattform": "kleinanzeigen",
-  "titel": "6",
+  "titel": "Erstbezug nach Sanierung, Apartment in Witten",
   "url": "https://www.kleinanzeigen.de/s-anzeige/erstbezug-nach-sanierung-apartment-in-witten/3469356523-203-1022",
   "preis": 560.0,
   "zimmer": null,
