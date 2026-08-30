@@ -1,5 +1,19 @@
 [
  {
+  "id": "kleinanzeigen:2be918cd3b32d0",
+  "plattform": "kleinanzeigen",
+  "titel": "3-Zimmer Wohnung in Dortmund",
+  "url": "https://www.kleinanzeigen.de/s-anzeige/3-zimmer-wohnung-in-dortmund/3499214708-203-1091",
+  "preis": 589.0,
+  "zimmer": null,
+  "flaeche": null,
+  "ort": "44225 Hombruch",
+  "bild": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/cb/cbd3d912-e0f7-4293-ba2a-002b5ed758ac?rule=$_1.AUTO",
+  "gefunden_am": "2026-08-30T17:08:14+00:00",
+  "quelle": "Kleinanzeigen · Dortmund",
+  "stadt": "Dortmund"
+ },
+ {
   "id": "kleinanzeigen:1ba9e9dfb63149",
   "plattform": "kleinanzeigen",
   "titel": "Studentenwohnung - 1,5 Zimmer Apartment in Bochum Innenstadt",
