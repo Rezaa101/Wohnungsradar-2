@@ -1,5 +1,19 @@
 [
  {
+  "id": "kleinanzeigen:3892ded4f0992d",
+  "plattform": "kleinanzeigen",
+  "titel": "Souterrain Wohnung ab dem 01.12.2026 zu vermieten .",
+  "url": "https://www.kleinanzeigen.de/s-anzeige/souterrain-wohnung-ab-dem-01-12-2026-zu-vermieten-/3499121229-203-1100",
+  "preis": 650.0,
+  "zimmer": null,
+  "flaeche": null,
+  "ort": "44309 Brackel",
+  "bild": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/30/30a6402b-68db-404c-9166-a9f84f3afa26?rule=$_1.AUTO",
+  "gefunden_am": "2026-08-30T15:08:24+00:00",
+  "quelle": "Kleinanzeigen · Dortmund",
+  "stadt": "Dortmund"
+ },
+ {
   "id": "kleinanzeigen:414b0821ac4407",
   "plattform": "kleinanzeigen",
   "titel": "BESICHTIGUNG HEUTE 15MIN SPÄTER -1,5 Zimmer Wohnung in Bochum",
