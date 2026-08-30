@@ -1,5 +1,33 @@
 [
  {
+  "id": "kleinanzeigen:ed747cd7246582",
+  "plattform": "kleinanzeigen",
+  "titel": "Nachmieter gesucht - AB SOFORT",
+  "url": "https://www.kleinanzeigen.de/s-anzeige/nachmieter-gesucht-ab-sofort/3499408151-203-1106",
+  "preis": 585.0,
+  "zimmer": null,
+  "flaeche": null,
+  "ort": "44145 Innenstadt-​Nord",
+  "bild": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/04/0440627f-71ea-4836-805f-e4866c402162?rule=$_1.AUTO",
+  "gefunden_am": "2026-08-30T19:08:06+00:00",
+  "quelle": "Kleinanzeigen · Dortmund",
+  "stadt": "Dortmund"
+ },
+ {
+  "id": "kleinanzeigen:2798348f9894b3",
+  "plattform": "kleinanzeigen",
+  "titel": "19 qm Appartment in Witten-Rüdinghausen",
+  "url": "https://www.kleinanzeigen.de/s-anzeige/19-qm-appartment-in-witten-ruedinghausen/3499413553-203-1021",
+  "preis": 420.0,
+  "zimmer": null,
+  "flaeche": null,
+  "ort": "58454 Witten",
+  "bild": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/de/deffac3f-2962-4c48-87fc-a57f88af4b3e?rule=$_2.AUTO",
+  "gefunden_am": "2026-08-30T19:07:58+00:00",
+  "quelle": "Kleinanzeigen · Wetter",
+  "stadt": "Wetter"
+ },
+ {
   "id": "kleinanzeigen:2be918cd3b32d0",
   "plattform": "kleinanzeigen",
   "titel": "3-Zimmer Wohnung in Dortmund",
