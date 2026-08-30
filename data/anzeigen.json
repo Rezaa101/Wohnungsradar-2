@@ -1,5 +1,19 @@
 [
  {
+  "id": "kleinanzeigen:1ba9e9dfb63149",
+  "plattform": "kleinanzeigen",
+  "titel": "Studentenwohnung - 1,5 Zimmer Apartment in Bochum Innenstadt",
+  "url": "https://www.kleinanzeigen.de/s-anzeige/studentenwohnung-1-5-zimmer-apartment-in-bochum-innenstadt/3438759610-203-1946",
+  "preis": 495.0,
+  "zimmer": null,
+  "flaeche": null,
+  "ort": "44787 Bochum-​Mitte",
+  "bild": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/2d/2d89718b-f4b7-4057-a3dc-6403771587fa?rule=$_2.AUTO",
+  "gefunden_am": "2026-08-30T16:08:00+00:00",
+  "quelle": "Kleinanzeigen · Bochum",
+  "stadt": "Bochum"
+ },
+ {
   "id": "kleinanzeigen:3892ded4f0992d",
   "plattform": "kleinanzeigen",
   "titel": "Souterrain Wohnung ab dem 01.12.2026 zu vermieten .",
