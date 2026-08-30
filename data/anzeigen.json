@@ -1,5 +1,33 @@
 [
  {
+  "id": "kleinanzeigen:bf2a175e623c21",
+  "plattform": "kleinanzeigen",
+  "titel": "renovierte moderne Wohnung",
+  "url": "https://www.kleinanzeigen.de/s-anzeige/renovierte-moderne-wohnung/3498231302-203-1102",
+  "preis": 470.0,
+  "zimmer": null,
+  "flaeche": null,
+  "ort": "44369 Huckarde",
+  "bild": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/58/5872f373-3086-4395-9b73-f02b73c19472?rule=$_1.AUTO",
+  "gefunden_am": "2026-08-30T08:08:18+00:00",
+  "quelle": "Kleinanzeigen · Dortmund",
+  "stadt": "Dortmund"
+ },
+ {
+  "id": "kleinanzeigen:c9145a1615859e",
+  "plattform": "kleinanzeigen",
+  "titel": "Ich suche einen Nachmieter für meine 2-Zimmerwohnung in Bochum",
+  "url": "https://www.kleinanzeigen.de/s-anzeige/ich-suche-einen-nachmieter-fuer-meine-2-zimmerwohnung-in-bochum/3498302420-203-1948",
+  "preis": 680.0,
+  "zimmer": null,
+  "flaeche": null,
+  "ort": "44793 Bochum-​Mitte",
+  "bild": null,
+  "gefunden_am": "2026-08-30T08:08:00+00:00",
+  "quelle": "Kleinanzeigen · Bochum",
+  "stadt": "Bochum"
+ },
+ {
   "id": "kleinanzeigen:762de265baafe1",
   "plattform": "kleinanzeigen",
   "titel": "MietWohnug",
