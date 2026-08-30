@@ -1,5 +1,19 @@
 [
  {
+  "id": "kleinanzeigen:414b0821ac4407",
+  "plattform": "kleinanzeigen",
+  "titel": "BESICHTIGUNG HEUTE 15MIN SPÄTER -1,5 Zimmer Wohnung in Bochum",
+  "url": "https://www.kleinanzeigen.de/s-anzeige/besichtigung-heute-15min-spaeter-1-5-zimmer-wohnung-in-bochum/3438759610-203-1946",
+  "preis": 495.0,
+  "zimmer": null,
+  "flaeche": null,
+  "ort": "44787 Bochum-​Mitte",
+  "bild": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/2d/2d89718b-f4b7-4057-a3dc-6403771587fa?rule=$_2.AUTO",
+  "gefunden_am": "2026-08-30T14:07:48+00:00",
+  "quelle": "Kleinanzeigen · Bochum",
+  "stadt": "Bochum"
+ },
+ {
   "id": "kleinanzeigen:427ee7dc9081ed",
   "plattform": "kleinanzeigen",
   "titel": "Wunderschöne 2 Zimmer Wohnung ZEITNAH",
