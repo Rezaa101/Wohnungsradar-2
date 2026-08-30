@@ -1,5 +1,19 @@
 [
  {
+  "id": "kleinanzeigen:427ee7dc9081ed",
+  "plattform": "kleinanzeigen",
+  "titel": "Wunderschöne 2 Zimmer Wohnung ZEITNAH",
+  "url": "https://www.kleinanzeigen.de/s-anzeige/wunderschoene-2-zimmer-wohnung-zeitnah/3498131756-203-1096",
+  "preis": 550.0,
+  "zimmer": null,
+  "flaeche": null,
+  "ort": "44388 Lütgendortmund",
+  "bild": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b8/b8d33721-b9d9-47cd-b19a-2fbe1ea41e23?rule=$_2.AUTO",
+  "gefunden_am": "2026-08-30T13:08:16+00:00",
+  "quelle": "Kleinanzeigen · Dortmund",
+  "stadt": "Dortmund"
+ },
+ {
   "id": "kleinanzeigen:bf2a175e623c21",
   "plattform": "kleinanzeigen",
   "titel": "renovierte moderne Wohnung",
