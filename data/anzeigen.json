@@ -1,5 +1,19 @@
 [
  {
+  "id": "kleinanzeigen:2222e10f08a98b",
+  "plattform": "kleinanzeigen",
+  "titel": "2-Zimmer-Wohnung, 45 m² – Dortmund",
+  "url": "https://www.kleinanzeigen.de/s-anzeige/2-zimmer-wohnung-45-m-dortmund/3500191409-203-16814",
+  "preis": 689.0,
+  "zimmer": null,
+  "flaeche": null,
+  "ort": "44141 Mitte",
+  "bild": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/2a/2ab6c909-e0b1-4927-a256-0caa1adf50fe?rule=$_1.AUTO",
+  "gefunden_am": "2026-08-31T18:08:12+00:00",
+  "quelle": "Kleinanzeigen · Dortmund",
+  "stadt": "Dortmund"
+ },
+ {
   "id": "kleinanzeigen:23a073c9e57d25",
   "plattform": "kleinanzeigen",
   "titel": "Modernisierte Singlewohnung in verkehrsgünstiger Lage",
