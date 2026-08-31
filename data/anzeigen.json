@@ -1,5 +1,19 @@
 [
  {
+  "id": "kleinanzeigen:8efa78dd164f3a",
+  "plattform": "kleinanzeigen",
+  "titel": "2 Raumwohnung mit Balkon in 58135 Hagen zu vermieten",
+  "url": "https://www.kleinanzeigen.de/s-anzeige/2-raumwohnung-mit-balkon-in-58135-hagen-zu-vermieten/3490557815-203-2017",
+  "preis": 600.0,
+  "zimmer": null,
+  "flaeche": null,
+  "ort": "58135 Hagen (5 km)",
+  "bild": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/15/155f7738-ecff-4935-931c-fc04f4fcdc34?rule=$_2.AUTO",
+  "gefunden_am": "2026-08-31T19:08:10+00:00",
+  "quelle": "Kleinanzeigen · Witten",
+  "stadt": "Witten"
+ },
+ {
   "id": "kleinanzeigen:2222e10f08a98b",
   "plattform": "kleinanzeigen",
   "titel": "2-Zimmer-Wohnung, 45 m² – Dortmund",
