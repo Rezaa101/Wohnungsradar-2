@@ -1,5 +1,19 @@
 [
  {
+  "id": "kleinanzeigen:f9200b70e70281",
+  "plattform": "kleinanzeigen",
+  "titel": "Wohnung 2.5 Zimmer",
+  "url": "https://www.kleinanzeigen.de/s-anzeige/wohnung-2-5-zimmer/3499772348-203-1939",
+  "preis": 460.0,
+  "zimmer": null,
+  "flaeche": null,
+  "ort": "44879 Bochum-​Südwest",
+  "bild": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/7b/7be72fa7-5c79-4adf-8dfd-f47d9d81ce0d?rule=$_2.AUTO",
+  "gefunden_am": "2026-08-31T11:08:15+00:00",
+  "quelle": "Kleinanzeigen · Bochum",
+  "stadt": "Bochum"
+ },
+ {
   "id": "kleinanzeigen:84dcae05b85a0f",
   "plattform": "kleinanzeigen",
   "titel": "Ich suche einen Mieter für meine Wohnung ( 46 m) in 44149",
