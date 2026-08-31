@@ -1,5 +1,19 @@
 [
  {
+  "id": "kleinanzeigen:46e625218b6322",
+  "plattform": "kleinanzeigen",
+  "titel": "Wohnung DG Klima",
+  "url": "https://www.kleinanzeigen.de/s-anzeige/wohnung-dg-klima-/3499873014-203-1100",
+  "preis": 450.0,
+  "zimmer": null,
+  "flaeche": null,
+  "ort": "44309 Brackel",
+  "bild": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/7a/7a333556-fb29-4350-8ac0-0f170c1b6686?rule=$_1.AUTO",
+  "gefunden_am": "2026-08-31T13:08:35+00:00",
+  "quelle": "Kleinanzeigen · Dortmund",
+  "stadt": "Dortmund"
+ },
+ {
   "id": "kleinanzeigen:860413f4cceb7c",
   "plattform": "kleinanzeigen",
   "titel": "Vollmöbliertes gepflegtes Apartment mit Balkon *Nichtraucher*",
