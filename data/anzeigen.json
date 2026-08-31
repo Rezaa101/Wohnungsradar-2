@@ -1,5 +1,19 @@
 [
  {
+  "id": "kleinanzeigen:fab725d7d9cdc8",
+  "plattform": "kleinanzeigen",
+  "titel": "Wohnung in Dortmund Hörde",
+  "url": "https://www.kleinanzeigen.de/s-anzeige/wohnung-in-dortmund-hoerde/3499212492-203-1087",
+  "preis": 650.0,
+  "zimmer": null,
+  "flaeche": null,
+  "ort": "44263 Hörde",
+  "bild": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/67/678a450b-ef16-4b86-bf91-7d4d155598a9?rule=$_2.AUTO",
+  "gefunden_am": "2026-08-31T14:08:41+00:00",
+  "quelle": "Kleinanzeigen · Dortmund",
+  "stadt": "Dortmund"
+ },
+ {
   "id": "kleinanzeigen:46e625218b6322",
   "plattform": "kleinanzeigen",
   "titel": "Wohnung DG Klima",
