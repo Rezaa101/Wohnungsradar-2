@@ -1,5 +1,19 @@
 [
  {
+  "id": "kleinanzeigen:860413f4cceb7c",
+  "plattform": "kleinanzeigen",
+  "titel": "Vollmöbliertes gepflegtes Apartment mit Balkon *Nichtraucher*",
+  "url": "https://www.kleinanzeigen.de/s-anzeige/vollmoebliertes-gepflegtes-apartment-mit-balkon-nichtraucher-/3499827058-203-1936",
+  "preis": 650.0,
+  "zimmer": null,
+  "flaeche": null,
+  "ort": "44894 Bochum-​Ost",
+  "bild": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/6b/6be04808-ca3c-4846-b703-b1b000db0103?rule=$_2.AUTO",
+  "gefunden_am": "2026-08-31T12:09:03+00:00",
+  "quelle": "Kleinanzeigen · Bochum",
+  "stadt": "Bochum"
+ },
+ {
   "id": "kleinanzeigen:f9200b70e70281",
   "plattform": "kleinanzeigen",
   "titel": "Wohnung 2.5 Zimmer",
