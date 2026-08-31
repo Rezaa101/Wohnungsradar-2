@@ -1,5 +1,47 @@
 [
  {
+  "id": "kleinanzeigen:84dcae05b85a0f",
+  "plattform": "kleinanzeigen",
+  "titel": "Ich suche einen Mieter für meine Wohnung ( 46 m) in 44149",
+  "url": "https://www.kleinanzeigen.de/s-anzeige/ich-suche-einen-mieter-fuer-meine-wohnung-46-m-in-44149/3499648253-203-1108",
+  "preis": 1.0,
+  "zimmer": null,
+  "flaeche": null,
+  "ort": "44149 Innenstadt-​West",
+  "bild": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/68/6854ef22-bca6-417e-9e21-ab5f768bbd6f?rule=$_1.AUTO",
+  "gefunden_am": "2026-08-31T10:08:11+00:00",
+  "quelle": "Kleinanzeigen · Dortmund",
+  "stadt": "Dortmund"
+ },
+ {
+  "id": "kleinanzeigen:d78f021f12ed62",
+  "plattform": "kleinanzeigen",
+  "titel": "2 Zimmer Wohnung in Bochum Querenburg 49qm",
+  "url": "https://www.kleinanzeigen.de/s-anzeige/2-zimmer-wohnung-in-bochum-querenburg-49qm/3499695051-203-1941",
+  "preis": 560.0,
+  "zimmer": null,
+  "flaeche": null,
+  "ort": "44801 Bochum-​Süd",
+  "bild": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f6/f6e9a737-f46e-4e92-9b75-afde608a91cd?rule=$_2.AUTO",
+  "gefunden_am": "2026-08-31T10:07:51+00:00",
+  "quelle": "Kleinanzeigen · Bochum",
+  "stadt": "Bochum"
+ },
+ {
+  "id": "kleinanzeigen:6abf5be492f8d5",
+  "plattform": "kleinanzeigen",
+  "titel": "Wohnung Bochum Hamme 2.5 Zimmer EG TOP",
+  "url": "https://www.kleinanzeigen.de/s-anzeige/wohnung-bochum-hamme-2-5-zimmer-eg-top/3499704933-203-1938",
+  "preis": 580.0,
+  "zimmer": null,
+  "flaeche": null,
+  "ort": "44809 Bochum-​Mitte",
+  "bild": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/72/720ed680-fbb0-4b0f-a780-64c8adde1255?rule=$_2.AUTO",
+  "gefunden_am": "2026-08-31T10:07:51+00:00",
+  "quelle": "Kleinanzeigen · Bochum",
+  "stadt": "Bochum"
+ },
+ {
   "id": "kleinanzeigen:7fcee1b04d32cc",
   "plattform": "kleinanzeigen",
   "titel": "Helle 2,5 Zimmer Wohnung mit Balkon und Stellplatz ab dem 01.12.",
