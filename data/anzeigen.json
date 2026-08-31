@@ -1,5 +1,33 @@
 [
  {
+  "id": "kleinanzeigen:23a073c9e57d25",
+  "plattform": "kleinanzeigen",
+  "titel": "Modernisierte Singlewohnung in verkehrsgünstiger Lage",
+  "url": "https://www.kleinanzeigen.de/s-anzeige/modernisierte-singlewohnung-in-verkehrsguenstiger-lage/3500043862-203-28043",
+  "preis": 320.0,
+  "zimmer": null,
+  "flaeche": null,
+  "ort": "44289 Sölde",
+  "bild": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e5/e5f06d5a-d87a-43bc-ab9a-40ea1baca36c?rule=$_1.AUTO",
+  "gefunden_am": "2026-08-31T15:08:21+00:00",
+  "quelle": "Kleinanzeigen · Dortmund",
+  "stadt": "Dortmund"
+ },
+ {
+  "id": "kleinanzeigen:a4c30ac3393a2e",
+  "plattform": "kleinanzeigen",
+  "titel": "1,5 Zimmer Wohnung | Einbauküche/Teilmöbliert | Innenstadt Bochum",
+  "url": "https://www.kleinanzeigen.de/s-anzeige/1-5-zimmer-wohnung-einbaukueche-teilmoebliert-innenstadt-bochum/3438759610-203-1946",
+  "preis": 495.0,
+  "zimmer": null,
+  "flaeche": null,
+  "ort": "44787 Bochum-​Mitte",
+  "bild": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/2d/2d89718b-f4b7-4057-a3dc-6403771587fa?rule=$_2.AUTO",
+  "gefunden_am": "2026-08-31T15:08:02+00:00",
+  "quelle": "Kleinanzeigen · Bochum",
+  "stadt": "Bochum"
+ },
+ {
   "id": "kleinanzeigen:fab725d7d9cdc8",
   "plattform": "kleinanzeigen",
   "titel": "Wohnung in Dortmund Hörde",
