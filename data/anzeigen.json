@@ -1,5 +1,19 @@
 [
  {
+  "id": "kleinanzeigen:845b1c6ce76226",
+  "plattform": "kleinanzeigen",
+  "titel": "Freundliche 2,5-Zimmer-Wohnung mit Einbauküche in Dortmund",
+  "url": "https://www.kleinanzeigen.de/s-anzeige/freundliche-2-5-zimmer-wohnung-mit-einbaukueche-in-dortmund/3500340469-203-28107",
+  "preis": 460.0,
+  "zimmer": null,
+  "flaeche": null,
+  "ort": "44143 Körne",
+  "bild": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a2/a2f5cf9a-dc6c-4b22-9667-c5289243edf9?rule=$_1.AUTO",
+  "gefunden_am": "2026-08-31T20:08:30+00:00",
+  "quelle": "Kleinanzeigen · Dortmund",
+  "stadt": "Dortmund"
+ },
+ {
   "id": "kleinanzeigen:8efa78dd164f3a",
   "plattform": "kleinanzeigen",
   "titel": "2 Raumwohnung mit Balkon in 58135 Hagen zu vermieten",
