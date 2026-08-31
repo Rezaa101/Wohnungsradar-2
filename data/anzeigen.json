@@ -1,5 +1,33 @@
 [
  {
+  "id": "kleinanzeigen:7fcee1b04d32cc",
+  "plattform": "kleinanzeigen",
+  "titel": "Helle 2,5 Zimmer Wohnung mit Balkon und Stellplatz ab dem 01.12.",
+  "url": "https://www.kleinanzeigen.de/s-anzeige/helle-2-5-zimmer-wohnung-mit-balkon-und-stellplatz-ab-dem-01-12-/3499625613-203-1099",
+  "preis": 640.0,
+  "zimmer": null,
+  "flaeche": null,
+  "ort": "44287 Aplerbeck",
+  "bild": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/79/79262807-c862-477a-848a-31dd03e45496?rule=$_1.AUTO",
+  "gefunden_am": "2026-08-31T08:08:57+00:00",
+  "quelle": "Kleinanzeigen · Dortmund",
+  "stadt": "Dortmund"
+ },
+ {
+  "id": "kleinanzeigen:4775a46a3d548c",
+  "plattform": "kleinanzeigen",
+  "titel": "Barrierearme, renovierte 2-Zi.-Wohnung mit Einbauküche und Terrasse in TOP-Lage von Grundschöttel!",
+  "url": "https://www.kleinanzeigen.de/s-anzeige/barrierearme-renovierte-2-zi-wohnung-mit-einbaukueche-und-terrasse-in-top-lage-von-grundschoettel-/3499575247-203-1418",
+  "preis": 580.0,
+  "zimmer": null,
+  "flaeche": null,
+  "ort": "58300 Wetter (Ruhr)",
+  "bild": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/af/afb8dc77-0688-4b9a-9959-7f5c5c49dd44?rule=$_2.AUTO",
+  "gefunden_am": "2026-08-31T08:08:41+00:00",
+  "quelle": "Kleinanzeigen · Witten",
+  "stadt": "Witten"
+ },
+ {
   "id": "kleinanzeigen:ed747cd7246582",
   "plattform": "kleinanzeigen",
   "titel": "Nachmieter gesucht - AB SOFORT",
