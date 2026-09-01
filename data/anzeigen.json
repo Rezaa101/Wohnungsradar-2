@@ -1,5 +1,19 @@
 [
  {
+  "id": "kleinanzeigen:8cd322bb96f0d0",
+  "plattform": "kleinanzeigen",
+  "titel": "Ruhige Dachgeschosswohnung",
+  "url": "https://www.kleinanzeigen.de/s-anzeige/ruhige-dachgeschosswohnung/3500524741-203-28136",
+  "preis": 280.0,
+  "zimmer": null,
+  "flaeche": null,
+  "ort": "44319 Asseln",
+  "bild": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ac/acb4384c-46d2-4092-bf49-1b4d17f426ac?rule=$_1.AUTO",
+  "gefunden_am": "2026-09-01T08:17:09+00:00",
+  "quelle": "Kleinanzeigen · Dortmund",
+  "stadt": "Dortmund"
+ },
+ {
   "id": "kleinanzeigen:845b1c6ce76226",
   "plattform": "kleinanzeigen",
   "titel": "Freundliche 2,5-Zimmer-Wohnung mit Einbauküche in Dortmund",
@@ -298,7 +312,7 @@
   "plattform": "kleinanzeigen",
   "titel": "renovierte moderne Wohnung",
   "url": "https://www.kleinanzeigen.de/s-anzeige/renovierte-moderne-wohnung/3498231302-203-1102",
-  "preis": 470.0,
+  "preis": 430.0,
   "zimmer": null,
   "flaeche": null,
   "ort": "44369 Huckarde",
