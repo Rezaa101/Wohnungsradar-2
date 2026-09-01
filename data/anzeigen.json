@@ -1,5 +1,33 @@
 [
  {
+  "id": "kleinanzeigen:c96c8303aac92a",
+  "plattform": "kleinanzeigen",
+  "titel": "Wohnung Apartment Mietwohnung zu Vermieten Altenbochum central",
+  "url": "https://www.kleinanzeigen.de/s-anzeige/wohnung-apartment-mietwohnung-zu-vermieten-altenbochum-central/3500525807-203-1940",
+  "preis": 595.0,
+  "zimmer": null,
+  "flaeche": null,
+  "ort": "44803 Bochum-​Mitte",
+  "bild": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d0/d05a1882-19df-497b-8200-51a79a017c51?rule=$_2.AUTO",
+  "gefunden_am": "2026-09-01T09:15:31+00:00",
+  "quelle": "Kleinanzeigen · Bochum",
+  "stadt": "Bochum"
+ },
+ {
+  "id": "kleinanzeigen:89a572daf5c0c9",
+  "plattform": "kleinanzeigen",
+  "titel": "Nachmieter*in gesucht Wohnung am Bergbau-Museum Bochum",
+  "url": "https://www.kleinanzeigen.de/s-anzeige/nachmieter-in-gesucht-wohnung-am-bergbau-museum-bochum/3500483047-203-1947",
+  "preis": 450.0,
+  "zimmer": null,
+  "flaeche": null,
+  "ort": "44791 Bochum-​Ost",
+  "bild": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/6d/6dc09ccf-4383-4c89-be6a-d1649b861c48?rule=$_2.AUTO",
+  "gefunden_am": "2026-09-01T09:15:31+00:00",
+  "quelle": "Kleinanzeigen · Bochum",
+  "stadt": "Bochum"
+ },
+ {
   "id": "kleinanzeigen:8cd322bb96f0d0",
   "plattform": "kleinanzeigen",
   "titel": "Ruhige Dachgeschosswohnung",
