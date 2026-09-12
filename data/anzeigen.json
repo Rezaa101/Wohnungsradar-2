@@ -362,19 +362,5 @@
   "gefunden_am": "2026-08-30T08:08:00+00:00",
   "quelle": "Kleinanzeigen · Bochum",
   "stadt": "Bochum"
- },
- {
-  "id": "kleinanzeigen:762de265baafe1",
-  "plattform": "kleinanzeigen",
-  "titel": "MietWohnug",
-  "url": "https://www.kleinanzeigen.de/s-anzeige/mietwohnug/3498268429-203-1418",
-  "preis": 490.0,
-  "zimmer": null,
-  "flaeche": null,
-  "ort": "58300 Wetter (Ruhr)",
-  "bild": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/2e/2e6d2cff-7c55-480a-9958-c47dd8a3a167?rule=$_2.AUTO",
-  "gefunden_am": "2026-08-29T20:08:12+00:00",
-  "quelle": "Kleinanzeigen · Witten",
-  "stadt": "Witten"
  }
 ]
