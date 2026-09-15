@@ -26,19 +26,5 @@
   "gefunden_am": "2026-09-01T09:15:31+00:00",
   "quelle": "Kleinanzeigen · Bochum",
   "stadt": "Bochum"
- },
- {
-  "id": "kleinanzeigen:8cd322bb96f0d0",
-  "plattform": "kleinanzeigen",
-  "titel": "Ruhige Dachgeschosswohnung",
-  "url": "https://www.kleinanzeigen.de/s-anzeige/ruhige-dachgeschosswohnung/3500524741-203-28136",
-  "preis": 280.0,
-  "zimmer": null,
-  "flaeche": null,
-  "ort": "44319 Asseln",
-  "bild": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ac/acb4384c-46d2-4092-bf49-1b4d17f426ac?rule=$_1.AUTO",
-  "gefunden_am": "2026-09-01T08:17:09+00:00",
-  "quelle": "Kleinanzeigen · Dortmund",
-  "stadt": "Dortmund"
  }
 ]
